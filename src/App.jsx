@@ -352,7 +352,7 @@ function ServiceCard({
         </p>
 
         <a
-          href="https://wa.me/2348061118674"
+          href="https://wa.me/2349061501911"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-5 inline-block font-semibold text-[#D4AF37] transition hover:text-[#C59B27]"
